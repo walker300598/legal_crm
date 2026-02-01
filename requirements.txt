@@ -7,7 +7,7 @@ django-filter
 django-widget-tweaks
 python-dotenv
 django-htmx
-channels=
+channels
 django-channels-presence
 celery
 redis
