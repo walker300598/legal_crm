@@ -1,0 +1,16 @@
+Django
+mysqlclient
+django-crispy-forms
+crispy-bootstrap5
+Pillow
+django-filter
+django-widget-tweaks
+python-dotenv
+django-htmx
+channels=
+django-channels-presence
+celery
+redis
+django-celery-results
+reportlab
+openpyxl
